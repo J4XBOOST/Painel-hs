@@ -185,7 +185,7 @@ elif n1 == "11" or n1 == "011":
     print (f"{VERMELHO}<–SHERLOCK OSINT …---------------------------------- [06] ")
     print (f"{VERMELHO}<–SIMULATED FOR HACKING ∆--------------------------- [05] ")
     print (f"{VERMELHO}<–CMATRIX %----------------------------------------- [04] ")
-    print (f"{VERMELHO}<–T®3M √-------------------------------------------- [03] ")
+    print (f"{VERMELHO}<–T®3M √-------------------------------------------- [03] {RESET}")
 n2 = input("<<<  ")
 if n2 == "09" or n2 == "9":
     os.system('cd hammer && python hammer.py -h')
